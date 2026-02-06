@@ -1,9 +1,4 @@
 # Transport-Logistics-Budget-Analytics-
-Got it — since this is a **Transport & Logistics Budget Analytics Power BI dashboard project**, here’s a **professional, GitHub-ready README.md** written like a real analytics portfolio project (similar to what consulting firms like **Government of India** budget data and **Ministry of Road Transport and Highways** reporting would require).
-
-You can **copy-paste directly into your GitHub README.md**.
-
----
 
 # 🚦 Transport & Logistics Budget Analytics Dashboard (India)
 
